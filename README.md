@@ -55,4 +55,4 @@ With Parcel's `--public-url` flag, use the following scripts for deployment:
 Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
 
 ## Deployed Site
-[Tic-Tac-Toe Game](unaccountable-cream.surge.sh)
+[Tic-Tac-Toe Game](https://unaccountable-cream.surge.sh)
